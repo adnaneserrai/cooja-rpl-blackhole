@@ -42,6 +42,3 @@ cooja
 -----
 
 *Disclaimer: This project was created for educational purposes to study IoT routing security vulnerabilities.*
-
-```
-```
